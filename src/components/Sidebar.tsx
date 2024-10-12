@@ -46,7 +46,7 @@ export default function Sidebar({ role }: SidebarProps) {
     >
       <div className="flex items-center justify-between p-4 bg-gradient-to-r from-indigo-500 to-purple-600">
         <motion.img
-          src="https://app.bohurupi.com/bohurupi_favcon.png"
+          src="https://bohurupi.com/wp-content/uploads/2024/09/Bohurupi-Favicon-2024.webp"
           alt="Bohurupi Logo"
           className="w-10 h-10 rounded-full bg-white p-1"
           animate={{ rotate: isCollapsed ? 360 : 0 }}
