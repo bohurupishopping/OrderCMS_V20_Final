@@ -60,7 +60,7 @@ const Login: React.FC = () => {
           className="flex flex-col items-center mb-6"
         >
           <img 
-            src="https://app.bohurupi.com/bohurupi_favcon.png" 
+            src="https://bohurupi.com/wp-content/uploads/2024/09/Bohurupi-Favicon-2024.webp" 
             alt="Bohurupi Logo" 
             className="w-24 h-24 mb-4"
           />
