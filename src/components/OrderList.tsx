@@ -69,7 +69,7 @@ export default function Component({ orders }: OrderListProps) {
               <h3 className="text-xl font-bold text-gray-800 mb-4 line-clamp-2">
                 {order.details}
               </h3>
-              <div className="space-y-3 text-sm">
+              <div className="space-y-3 text-m">
                 <OrderDetail icon={User} label="Customer" value={order.name} />
                 <OrderDetail icon={Palette} label="Colour" value={order.colour} />
                 <OrderDetail icon={Ruler} label="Size" value={order.size} />
